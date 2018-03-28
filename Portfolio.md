@@ -11,3 +11,7 @@
 [Attendance System's API For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystemAPI "Attendance System's API For Code Academy")
 
 [HR Management System](https://github.com/orkhankhf/HR-Management-System "HR Management System")
+
+[Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
+
+[Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")

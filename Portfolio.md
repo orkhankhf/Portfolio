@@ -5,6 +5,7 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1cjMz-ZLNO2lNLSqOUgCr5lEPnp1c1R29&export=download)
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
+## Web Applications
 
 [Attendance System Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
 
@@ -15,3 +16,15 @@
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
 
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
+
+## Desktop Applications
+
+[Student Evaluation System](https://github.com/orkhankhf/StudentEvaluationSystem "Student Evaluation System")
+
+## Algorithmic Works
+
+[Time Conversion (hackerrank.com)](https://github.com/orkhankhf/21-01-2018_Time-conversion "Time Conversion (hackerrank.com)")
+
+[Birthday Cake Candles](https://github.com/orkhankhf/21-01-2018_Birthday-cake-candles "Birthday Cake Candles")
+
+[Min and Max Sum of Array](https://github.com/orkhankhf/21-01-2018_Mini-max-sum-of-array "Min and Max Sum of Array")

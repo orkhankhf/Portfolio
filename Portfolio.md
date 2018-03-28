@@ -5,6 +5,9 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1cjMz-ZLNO2lNLSqOUgCr5lEPnp1c1R29&export=download)
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
+## Theoretical Research
+[Programming Paradigmas](https://github.com/orkhankhf/ProgrammingParadigmas "Programming Paradigmas")
+
 ## Web Applications
 
 [Attendance System Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
@@ -16,6 +19,8 @@
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
 
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
+
+[Front-End Final Project In Code Academy](https://github.com/orkhankhf/FrontEndFinalProject "Front-End Final Project In Code Academy")
 
 ## Desktop Applications
 

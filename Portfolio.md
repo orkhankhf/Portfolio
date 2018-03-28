@@ -6,4 +6,8 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
 
-https://pandao.github.io/editor.md/en.html
+[Attendance System Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
+
+[Attendance System's API For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystemAPI "Attendance System's API For Code Academy")
+
+[HR Management System](https://github.com/orkhankhf/HR-Management-System "HR Management System")

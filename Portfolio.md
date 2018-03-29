@@ -5,10 +5,12 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1cjMz-ZLNO2lNLSqOUgCr5lEPnp1c1R29&export=download)
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
-## Theoretical Research
+## Theoretical Research & Exams
 [Programming Paradigms](https://github.com/orkhankhf/ProgrammingParadigms "Programming Paradigms")
 
 [Javascript Paradigms](https://github.com/orkhankhf/JavascriptParadigms "Javascript Paradigms")
+
+[C# Exam (20.02-2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02-2018)")
 
 ## Web Applications
 
@@ -30,7 +32,7 @@
 
 ## Algorithmic Works
 
-[Time Conversion (hackerrank.com)](https://github.com/orkhankhf/21-01-2018_Time-conversion "Time Conversion (hackerrank.com)")
+[Time Conversion](https://github.com/orkhankhf/21-01-2018_Time-conversion "Time Conversion")
 
 [Birthday Cake Candles](https://github.com/orkhankhf/21-01-2018_Birthday-cake-candles "Birthday Cake Candles")
 

@@ -12,6 +12,8 @@
 
 [C# Exam (20.02-2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02-2018)")
 
+## Completed and ready-to-use sites
+
 ## Web Applications
 
 [Attendance System With Qr-Code Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
@@ -25,6 +27,10 @@
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
 
 [Front-End Final Project In Code Academy](https://github.com/orkhankhf/FrontEndFinalProject "Front-End Final Project In Code Academy")
+
+## Mobile Applications
+
+[Qr-Code Scanner With Phone Camera (Developed on Xamarin Framework)](https://github.com/orkhankhf/Qr-Code_Scanner-With-Phone-Camera-on-Xamarin-Framework "Qr-Code Scanner With Phone Camera (Developed on Xamarin Framework)")
 
 ## Desktop Applications
 

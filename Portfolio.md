@@ -14,6 +14,8 @@
 
 ## Ready To Use Sites
 
+[joriyokungfu.com (Azerbaijan Jorio Kung Fu Federation)](https://github.com/orkhankhf/joriyokungfu.com_2015 "joriyokungfu.com (Azerbaijan Jorio Kung Fu Federation)")
+
 ## Web Applications
 
 [Attendance System With Qr-Code Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")

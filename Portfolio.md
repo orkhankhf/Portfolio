@@ -8,7 +8,7 @@
 ## Theoretical Research
 [Programming Paradigms](https://github.com/orkhankhf/ProgrammingParadigms "Programming Paradigms")
 
-[Javascript-Paradigms](https://github.com/orkhankhf/Javascript-Paradigms "Javascript-Paradigms")
+[Javascript Paradigms](https://github.com/orkhankhf/JavascriptParadigms "Javascript Paradigms")
 
 ## Web Applications
 

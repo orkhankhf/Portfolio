@@ -14,7 +14,11 @@
 
 ## Ready To Use Sites
 
-[joriyokungfu.com (Azerbaijan Jorio Kung Fu Federation)](https://github.com/orkhankhf/joriyokungfu.com_2015 "joriyokungfu.com (Azerbaijan Jorio Kung Fu Federation)")
+[joriyokungfu.com (2015) (Azerbaijan Jorio Kung Fu Federation)](https://github.com/orkhankhf/joriyokungfu.com_2015 "joriyokungfu.com (2015) (Azerbaijan Jorio Kung Fu Federation)")
+
+[bakuweb.az (January 2016)](https://github.com/orkhankhf/bakuweb.az_2016 "bakuweb.az (January 2016)")
+
+[gumush.az (April 2016)](https://github.com/orkhankhf/gumush.az_2016 "gumush.az (April 2016)")
 
 ## Web Applications
 

@@ -14,6 +14,9 @@
 
 ## Ready To Use Sites
 
+[mmsd.az (Febuary 2017)](https://github.com/orkhankhf/mmsd.az_2017 "mmsd.az (Febuary 2017)")
+
+[oynaqazan.az (December 2016)](https://github.com/orkhankhf/oynaqazan.az_2016 "oynaqazan.az (December 2016)")
 
 [ikincielkitab.az (September 2016)](https://github.com/orkhankhf/ikincielkitab.az_2016 "ikincielkitab.az (September 2016)")
 

@@ -6,7 +6,9 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
 ## Theoretical Research
-[Programming Paradigmas](https://github.com/orkhankhf/ProgrammingParadigmas "Programming Paradigmas")
+[Programming Paradigms](https://github.com/orkhankhf/ProgrammingParadigms "Programming Paradigms")
+
+[Javascript-Paradigms](https://github.com/orkhankhf/Javascript-Paradigms "Javascript-Paradigms")
 
 ## Web Applications
 

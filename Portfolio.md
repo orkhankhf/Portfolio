@@ -20,8 +20,6 @@
 
 [Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
 
-[Fancy Magazine Blog](https://github.com/orkhankhf/Fancy_Magazine_18-02-2018 "Fancy Magazine Blog")
-
 [Front-End Final Project In Code Academy](https://github.com/orkhankhf/FrontEndFinalProject "Front-End Final Project In Code Academy")
 
 ## Desktop Applications
@@ -50,6 +48,15 @@
 
 
 
+## 2015
+
+#### 2. Coding Week
+[Clean Website Template](https://github.com/orkhankhf/Clean-Website-Template-2015 "Clean Website Template")
+
+#### 1. Coding Week
+[My First Project (Azerbaijan Flag)](https://github.com/orkhankhf/My-First-Project-Azerbaijan-Flag "My First Project (Azerbaijan Flag)")
+
+[Simple Wireframe](https://github.com/orkhankhf/Simple-Wireframe-2015 "Simple Wireframe")
 
 
 

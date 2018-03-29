@@ -14,9 +14,11 @@
 
 ## Web Applications
 
-[Attendance System Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
+[Attendance System With Qr-Code Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
 
 [Attendance System's API For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystemAPI "Attendance System's API For Code Academy")
+
+[JavaScript Qr-Code Scanner](https://github.com/orkhankhf/JavaScript_Qr-Code_Scanner "JavaScript Qr-Code Scanner")
 
 [HR Management System](https://github.com/orkhankhf/HR-Management-System "HR Management System")
 
@@ -27,6 +29,8 @@
 ## Desktop Applications
 
 [Student Evaluation System](https://github.com/orkhankhf/StudentEvaluationSystem "Student Evaluation System")
+
+[Book Sale Application](https://github.com/orkhankhf/Book-Sale-App_06-01-2018 "Book Sale Application")
 
 [Hotel Application](https://github.com/orkhankhf/HotelApp-11-01-2018- "Hotel Application")
 
@@ -52,14 +56,12 @@
 
 
 
-## 2016
+## Some daily/weekly tasks in the Code Academy studying process (2015-2016)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;8. Week
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mafia Game (Only Front-End)](https://github.com/orkhankhf/Mafia-Game "Mafia Game (Only Front-End)")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Javascript Gallery](https://github.com/orkhankhf/Javascript-Gallery "Javascript Gallery")
-
-## 2015
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;7. Week
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Basic Javascript Game](https://github.com/orkhankhf/Basic-Javascript-Game-2016 "Basic Javascript Game")

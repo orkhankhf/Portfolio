@@ -12,7 +12,7 @@
 
 [C# Exam (20.02-2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02-2018)")
 
-## Completed and ready-to-use sites
+## Ready To Use Sites
 
 ## Web Applications
 

@@ -25,7 +25,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Javascript Inheritance Patterns](https://github.com/orkhankhf/Javascript-Inheritance-Patterns "Javascript Inheritance Patterns")
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Snow With Javascript](https://github.com/orkhankhf/Js-Snow "Snow With Javascript")
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Simple Lightbox Gallery With JavaScript](https://github.com/orkhankhf/Simple-Lightbox-Gallery-With-JavaScript "Simple Lightbox Gallery With JavaScript")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Flexible Slider With Javascript](https://github.com/orkhankhf/Js-Flexible-Slider "Flexible Slider With Javascript")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Theoretical Research & Exams

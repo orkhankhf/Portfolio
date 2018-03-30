@@ -5,6 +5,20 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1cjMz-ZLNO2lNLSqOUgCr5lEPnp1c1R29&export=download)
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
+## Code Academy studying process (2017-2018) (Some daily/weekly tasks)
+#### &nbsp;&nbsp;&nbsp;&nbsp; Backend
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Authorization System With Flexible Roles](https://github.com/orkhankhf/User_Authorization_System "User Authorization System With Flexible Roles")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Simple Book Store Form App](https://github.com/orkhankhf/BookStore "Simple Book Store Form App")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ADO.NET Form Application (CRUD operations)](https://github.com/orkhankhf/Basic-CRUD-With-ADO.NET "ADO.NET Form Application (CRUD operations)")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
 ## Theoretical Research & Exams
 [Programming Paradigms](https://github.com/orkhankhf/ProgrammingParadigms "Programming Paradigms")
 
@@ -12,7 +26,7 @@
 
 [C# Exam (20.02-2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02-2018)")
 
-## Ready To Use Sites
+## PHP & MySQL Web Applications (Real Projects) :copyright: Orkhan Farajov
 [qadingeyimleri.az (March 2017)](https://github.com/orkhankhf/qadingeyimleri.az_2017 "qadingeyimleri.az (March 2017)")
 
 [mmsd.az (Febuary 2017)](https://github.com/orkhankhf/mmsd.az_2017 "mmsd.az (Febuary 2017)")
@@ -27,7 +41,7 @@
 
 [joriyokungfu.com (2015) (Azerbaijan Jorio Kung Fu Federation)](https://github.com/orkhankhf/joriyokungfu.com_2015 "joriyokungfu.com (2015) (Azerbaijan Jorio Kung Fu Federation)")
 
-## Web Applications
+## ASP.NET Web Applications
 
 [Attendance System With Qr-Code Project For Code Academy](https://github.com/orkhankhf/CodeAcademyAttendanceSystem "Attendance System Project For Code Academy")
 
@@ -75,7 +89,7 @@
 
 
 
-## Some daily/weekly tasks in the Code Academy studying process (2015-2016)
+## Code Academy studying process (2015-2016) (Some daily/weekly tasks)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;8. Week
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mafia Game (Only Front-End)](https://github.com/orkhankhf/Mafia-Game "Mafia Game (Only Front-End)")

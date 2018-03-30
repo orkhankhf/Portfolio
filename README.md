@@ -6,14 +6,18 @@
 ![N](https://drive.google.com/a/code.edu.az/uc?authuser=0&id=1xQo13BqhL_4OaV3CBqJCyTrBSvW-2Uwj&export=download)
 
 ## Code Academy studying process (2017-2018) (Some daily/weekly tasks)
-#### &nbsp;&nbsp;&nbsp;&nbsp; Backend
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; Back-End
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[User Authorization System With Flexible Roles](https://github.com/orkhankhf/User_Authorization_System "User Authorization System With Flexible Roles")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Simple Book Store Form App](https://github.com/orkhankhf/BookStore "Simple Book Store Form App")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ADO.NET Form Application (CRUD operations)](https://github.com/orkhankhf/Basic-CRUD-With-ADO.NET "ADO.NET Form Application (CRUD operations)")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tic Tac Toe Game](https://github.com/orkhankhf/Tic-Tac-Toe-Game "Tic Tac Toe Game")
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; Front-End
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Js Object or Constructor Prototype](https://github.com/orkhankhf/Js-Object-or-Constructor-Prototype "Js Object or Constructor Prototype")
 
 
 
@@ -68,6 +72,8 @@
 [Hotel Application](https://github.com/orkhankhf/HotelApp-11-01-2018- "Hotel Application")
 
 ## Algorithmic Works
+
+[5 Algorithmic Task](https://github.com/orkhankhf/Five-Console-Application-Task "5 Algorithmic Task")
 
 [Time Conversion](https://github.com/orkhankhf/21-01-2018_Time-conversion "Time Conversion")
 

@@ -15,7 +15,7 @@
 
 [Javascript Paradigms](https://github.com/orkhankhf/JavascriptParadigms "Javascript Paradigms")
 
-[C# Exam (20.02-2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02-2018)")
+[C# Exam (20.02.2018)](https://github.com/orkhankhf/C-sharp-Exam-Chapter-1-and-2 "C# Exam (20.02.2018)")
 
 
 

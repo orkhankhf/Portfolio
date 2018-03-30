@@ -31,7 +31,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Flexible Slider With Javascript](https://github.com/orkhankhf/Js-Flexible-Slider "Flexible Slider With Javascript")
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Clock With JavaScript](https://github.com/orkhankhf/Clock-With-JavaScript "Clock With JavaScript")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Js Chessboard](https://github.com/orkhankhf/Js-Chessboard "Js Chessboard")
+
+
+
+
 
 
 ## Theoretical Research & Exams
@@ -102,6 +108,7 @@
 
 [A Very Big Sum](https://github.com/orkhankhf/17-01-2018_A-Very-Big-Sum "A Very Big Sum")
 
+[Javascript Math Task](https://github.com/orkhankhf/Js-Numbers-that-can-be-divided-three-and-not-divided-two "Javascript Math Task")
 
 
 

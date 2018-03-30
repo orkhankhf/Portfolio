@@ -19,6 +19,11 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; Front-End
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Js Object or Constructor Prototype](https://github.com/orkhankhf/Js-Object-or-Constructor-Prototype "Js Object or Constructor Prototype")
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Accordion Plugin With Inheritance Patterns And OOP (Javascript)](https://github.com/orkhankhf/Js-Accordion-Plugin-With-Inheritance-Patterns-And-OOP "Accordion Plugin With Inheritance Patterns And OOP (Javascript)")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Js Countdown With User Interface](https://github.com/orkhankhf/Js-Countdown-With-UI "Js Countdown With User Interface")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Javascript Inheritance Patterns](https://github.com/orkhankhf/Javascript-Inheritance-Patterns "Javascript Inheritance Patterns")
 
 
 

@@ -130,7 +130,7 @@
 
 [Min and Max Sum of Array](https://github.com/orkhankhf/21-01-2018_Mini-max-sum-of-array "Min and Max Sum of Array")
 
-[How Much Interest Positive Negative and Zero Values](https://github.com/orkhankhf/17-01-2018_How-much-interest-positive-negative-and-zero-values "How Much Interest Positive Negative and Zero Values")
+[Plus Minus](https://github.com/orkhankhf/Plus-Minus "Plus Minus")
 
 [Simple Box Moving Game](https://github.com/orkhankhf/Simple-Box-Moving-Game "Simple Box Moving Game")
 

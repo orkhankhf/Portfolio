@@ -132,7 +132,7 @@
 
 [How Much Interest Positive Negative and Zero Values](https://github.com/orkhankhf/17-01-2018_How-much-interest-positive-negative-and-zero-values "How Much Interest Positive Negative and Zero Values")
 
-[Basic Box Moving Game](https://github.com/orkhankhf/17-01-2018_simple-C-Sharp-move-box-game "Basic Box Moving Game")
+[Simple Box Moving Game](https://github.com/orkhankhf/Simple-Box-Moving-Game "Simple Box Moving Game")
 
 [Staircase](https://github.com/orkhankhf/Staircase "Staircase")
 

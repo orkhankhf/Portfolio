@@ -134,7 +134,7 @@
 
 [Basic Box Moving Game](https://github.com/orkhankhf/17-01-2018_simple-C-Sharp-move-box-game "Basic Box Moving Game")
 
-[Making Staircase With Sharp Symbol](https://github.com/orkhankhf/17-01-2018_Make-staircase-with-sharp-symbol "Making Staircase With Sharp Symbol")
+[Staircase](https://github.com/orkhankhf/Staircase "Staircase")
 
 [Diagonal Difference](https://github.com/orkhankhf/17-01-2018_Diagonal-Difference "Diagonal Difference")
 

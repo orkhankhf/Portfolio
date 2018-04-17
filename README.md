@@ -126,7 +126,7 @@
 
 [Time Conversion](https://github.com/orkhankhf/Time-Conversion "Time Conversion")
 
-[Birthday Cake Candles](https://github.com/orkhankhf/21-01-2018_Birthday-cake-candles "Birthday Cake Candles")
+[Birthday Cake Candles](https://github.com/orkhankhf/Birthday-Cake-Candles "Birthday Cake Candles")
 
 [Min and Max Sum of Array](https://github.com/orkhankhf/21-01-2018_Mini-max-sum-of-array "Min and Max Sum of Array")
 

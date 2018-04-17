@@ -118,6 +118,8 @@
 
 
 ## Algorithmic Works
+[Kangaroo](https://github.com/orkhankhf/Kangaroo "Kangaroo")
+
 [Apple and Orange](https://github.com/orkhankhf/Apple-and-Orange "Apple and Orange")
 
 [Grading Students](https://github.com/orkhankhf/Grading-Students "Grading Students")
@@ -169,7 +171,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Simple Wireframe](https://github.com/orkhankhf/Simple-Wireframe-2015 "Simple Wireframe")
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My First Project (Azerbaijan Flag)](https://github.com/orkhankhf/My-First-Project-Azerbaijan-Flag "My First Project (Azerbaijan Flag)")
-
-
-
-

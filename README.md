@@ -124,7 +124,7 @@
 
 [5 Algorithmic Task](https://github.com/orkhankhf/Five-Console-Application-Task "5 Algorithmic Task")
 
-[Time Conversion](https://github.com/orkhankhf/21-01-2018_Time-conversion "Time Conversion")
+[Time Conversion](https://github.com/orkhankhf/Time-Conversion "Time Conversion")
 
 [Birthday Cake Candles](https://github.com/orkhankhf/21-01-2018_Birthday-cake-candles "Birthday Cake Candles")
 

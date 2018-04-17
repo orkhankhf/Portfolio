@@ -128,7 +128,7 @@
 
 [Birthday Cake Candles](https://github.com/orkhankhf/Birthday-Cake-Candles "Birthday Cake Candles")
 
-[Min and Max Sum of Array](https://github.com/orkhankhf/21-01-2018_Mini-max-sum-of-array "Min and Max Sum of Array")
+[Min and Max Sum of Array](https://github.com/orkhankhf/Mini-Max-Sum "Min and Max Sum of Array")
 
 [Plus Minus](https://github.com/orkhankhf/Plus-Minus "Plus Minus")
 

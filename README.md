@@ -118,6 +118,8 @@
 
 
 ## Algorithmic Works
+[Apple and Orange](https://github.com/orkhankhf/Apple-and-Orange "Apple and Orange")
+
 [Grading Students](https://github.com/orkhankhf/Grading-Students "Grading Students")
 
 [5 Algorithmic Task](https://github.com/orkhankhf/Five-Console-Application-Task "5 Algorithmic Task")
